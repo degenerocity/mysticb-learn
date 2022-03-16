@@ -1,4 +1,7 @@
 {
   "index": "Home",
+  "adanon": "ADANON",
+  "token": "Token",
+  "minter": "Minter",
   "faq": "Faq"  
 }
