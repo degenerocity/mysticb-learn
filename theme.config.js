@@ -13,15 +13,15 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Mystic Boutique - Reference Guide" />
-      <meta name="og:description" content="Best Practices, Common Problems, Important Links" />
+      <meta name="description" content="Mystic Boutique - White Paper" />
+      <meta name="og:description" content="Allow users to access mixers, swap tokens, provide liquidity and access a dynamic NFT marketplace" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://mb.6blocks.io/og.png" />
-      <meta name="twitter:site:domain" content="https://mb.6blocks.io" />
-      <meta name="twitter:url" content="https://mb.6blocks.io/" />
-      <meta name="og:title" content="Mystic Boutique - Reference Guide" />
+      <meta name="twitter:image" content="https://docs.mysticboutique.io/og.png" />
+      <meta name="twitter:site:domain" content="docs.mysticboutique.io" />
+      <meta name="twitter:url" content="docs.mysticboutique.io" />
+      <meta name="og:title" content="Mystic Boutique - White Paper" />
       <meta name="og:image" content="https://mb.6blocks.io/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Mystic Boutique - Reference Guide" />
+      <meta name="apple-mobile-web-app-title" content="Mystic Boutique - White Paper" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
