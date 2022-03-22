@@ -4,7 +4,7 @@ export default {
   titleSuffix: ' – MB',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Mystic Boutique Reference Guide</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Mystic Boutique - White Paper</span>
 	</>
   ),
   head: (
@@ -20,7 +20,7 @@ export default {
       <meta name="twitter:site:domain" content="docs.mysticboutique.io" />
       <meta name="twitter:url" content="docs.mysticboutique.io" />
       <meta name="og:title" content="Mystic Boutique - White Paper" />
-      <meta name="og:image" content="https://mb.6blocks.io/og.png" />
+      <meta name="og:image" content="https://docs.mysticboutique.io/og.png" />
       <meta name="apple-mobile-web-app-title" content="Mystic Boutique - White Paper" />
       <link
         rel="apple-touch-icon"
