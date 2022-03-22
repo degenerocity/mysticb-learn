@@ -4,7 +4,7 @@ export default {
   titleSuffix: ' – MB',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Mystic Boutique - White Paper</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Mystic Boutique - Litepaper</span>
 	</>
   ),
   head: (
@@ -13,7 +13,7 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Mystic Boutique - White Paper" />
+      <meta name="description" content="Mystic Boutique - Litepaper" />
       <meta name="og:description" content="Allow users to access mixers, swap tokens, provide liquidity and access a dynamic NFT marketplace" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://docs.mysticboutique.io/og.png" />
@@ -21,7 +21,7 @@ export default {
       <meta name="twitter:url" content="docs.mysticboutique.io" />
       <meta name="og:title" content="Mystic Boutique - White Paper" />
       <meta name="og:image" content="https://docs.mysticboutique.io/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Mystic Boutique - White Paper" />
+      <meta name="apple-mobile-web-app-title" content="Mystic Boutique - Litepaper" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
