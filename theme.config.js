@@ -19,7 +19,7 @@ export default {
       <meta name="twitter:image" content="https://docs.mysticboutique.io/og.png" />
       <meta name="twitter:site:domain" content="docs.mysticboutique.io" />
       <meta name="twitter:url" content="docs.mysticboutique.io" />
-      <meta name="og:title" content="Mystic Boutique - White Paper" />
+      <meta name="og:title" content="Mystic Boutique - Litepaper" />
       <meta name="og:image" content="https://docs.mysticboutique.io/og.png" />
       <meta name="apple-mobile-web-app-title" content="Mystic Boutique - Litepaper" />
       <link
